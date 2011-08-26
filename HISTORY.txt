@@ -1,7 +1,7 @@
 imageretriever logs
 ===================
 
-0.1 (unreleased)
+0.1 (2011-08-26)
 ----------------
 
  - added base functionalities. [vincent]
