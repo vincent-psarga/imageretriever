@@ -1,0 +1,8 @@
+imageretriever logs
+===================
+
+0.1 (unreleased)
+----------------
+
+ - added base functionalities. [vincent]
+
